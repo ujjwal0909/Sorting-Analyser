@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(19, 24, 34);
+    color: antiquewhite;
+}
+
+h1 {
+    color: bisque;
+}
+
+label {
+    font-size: small;
+}
